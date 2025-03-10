@@ -18,7 +18,7 @@
 - [TypeScript](https://www.typescriptlang.org/) - 类型安全
 - [Tailwind CSS](https://tailwindcss.com/) - 样式
 - [Open-Meteo API](https://open-meteo.com/) - 随机天气数据
-- [OpenWeatherMap API](https://openweathermap.org/) - 城市天气查询
+- [OpenWeatherMap API](https://openweathermap.org/) - 城市天气查询.
 
 ## 开始使用
 
